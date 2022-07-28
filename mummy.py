@@ -1,2 +1,2 @@
 def multiply(i,j):
-    return i*j
+    return i/j
